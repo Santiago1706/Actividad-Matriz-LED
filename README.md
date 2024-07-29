@@ -1,4 +1,4 @@
-# Actividad-Matriz-LED
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -109,39 +109,39 @@
         <div class="logo">
             <img src="https://colegiodivinosalvadorcali.edu.co/images/fixed/ESCUDO%20OFICIAl.png" alt="Logo 1">
         </div>
-        <h1>Investigación basura tecnologica en Colombia</h1>
+        <h1>Proyecto Matriz LED controlada con joystick</h1>
     </header>
 
     <nav>
         <div class="Menu">
             <ul>
-            <li><a href="https://santiago1706.github.io/Basura_Tecnologica/">Página Principal</a></li>
-            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Analista/">Analista de Tipos de Basuras Tecnológicas</a></li>
-            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Experto/">Experto en Impacto Ambiental</a></li>
-            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Investigador/">Investigador Principal</a></li>
-            <li><a href="https://santiago1706.github.io/Basura_Tecnologica_Comunicador/">Comunicador</a></li>
+            <li><a href="">Página Principal</a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
         </ul>   
         </div>
     </nav>
 
     <section id="descripcion">
-        <h2>Investigador Principal</h2>
-        <p>La basura tecnológica o e-waste, se refiere a los dispositivos electrónicos desechados, como teléfonos, computadoras y electrodomésticos, que ya no son útiles o están obsoletos. Estos residuos contienen materiales peligrosos y metales valiosos, lo que requiere un manejo adecuado para evitar daños ambientales y aprovechar sus componentes reciclables. </p>
+        <h2></h2>
+        <p></p>
     </section>
 
     <section id="funcionamiento">
-        <h2>Analista de tipos de basura tecnológica</h2>
-        <p>TEXTO DE LA CONCLUSIÓN </p>
+        <h2></h2>
+        <p></p>
     </section>
 
     <section id="impacto">
-        <h2>Experto en impacto ambiental</h2>
-        <p>TEXTO DE LA CONCLUSIÓN </p>
+        <h2></h2>
+        <p></p>
     </section>
 
     <section id="contacto">
-        <h2>Comunicador</h2>
-        <p>TEXTO DE LA CONCLUSIÓN </p>
+        <h2></h2>
+        <p></p>
     </section>
 
     <!-- Nueva sección de galería de imágenes -->
@@ -154,7 +154,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 - Águilas Doradas - Basura Tecnológica - C.D.S</p>
+        <p>&copy; 2024 - Combita y Laiseca - Matriz LED - C.D.S</p>
     </footer>
 </body>
 </html>
